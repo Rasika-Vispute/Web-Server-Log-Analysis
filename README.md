@@ -6,7 +6,11 @@ This project focuses on analyzing ~726,000 raw HTTP server log entries from the 
 - Analyze traffic trends, request types, and status codes.
 - Identify behavioral patterns and anomalies in user access.
 - Prepare the dataset for potential anomaly detection
-  
+
+##  Tools & Technologies Used
+`Python` · `Pandas` · `Regex` · `Matplotlib` · `Seaborn` · `Scikit-learn`  
+`Data Cleaning` · `Log Parsing` · `Time-Series Analysis` 
+
 ## Part 1: Data Loading and Cleaning
 **1. Download and Load Data** 
 - Download the compressed dataset from the FTP server 
@@ -47,10 +51,6 @@ Q10: HTTP response code distribution
 - **Data Cleaning & Structuring:** Converted logs into a clean, tabular format using **Pandas**.
 - **Exploratory Data Analysis (EDA):** Visualized request frequency, traffic trends, top resources, and error distribution using **Matplotlib** and **Seaborn**.
 - **Feature Engineering:** Created new features like request hour, day of week, response category, and grouped IP behaviors.
-
-##  Tools & Technologies Used
-`Python` · `Pandas` · `Regex` · `Matplotlib` · `Seaborn` · `Scikit-learn`  
-`Data Cleaning` · `Log Parsing` · `Time-Series Analysis` 
 
 ##  Contributions
 Suggestions, improvements, and issues are welcome. Feel free to fork the repo or raise a pull request!
