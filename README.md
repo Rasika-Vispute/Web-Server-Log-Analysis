@@ -1,4 +1,4 @@
-# Web-Server-Log-Analysis
+# Web Server Log Analysis
 This project focuses on analyzing ~726,000 raw HTTP server log entries from the **University of Calgary** to uncover insights related to user behavior, website traffic patterns, error occurrences, and bandwidth usage. The goal was to work with real-world web server log data to extract meaningful insights and demonstrate your Python data analysis skills that transforms unstructured logs into structured datasets for analysis, visualization
 
 ## Project Objectives
